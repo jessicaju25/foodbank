@@ -1,4 +1,3 @@
-# foodbank
 # Food Donation App
 
 This is a sophisticated Android app designed to facilitate food donation and food bank management. The app allows users to easily donate food items, find nearby food banks, and contribute to reducing food waste. It provides a user-friendly interface with seamless navigation and intuitive features.
