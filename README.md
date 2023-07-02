@@ -36,21 +36,7 @@ Contributions to the project are welcome. If you encounter any issues or have su
 
 This project is licensed under the [MIT License](LICENSE).
 
-## API Documentation
-
-Please reference the following table for the REST endpoints and their usage:
-
-| HTTP Method | Endpoint                            | Description                                                | Required Parameters    |
-|-------------|-------------------------------------|------------------------------------------------------------|------------------------|
-| GET         | /api/v1/boosters                    | Retrieve all or filtered boosters                           | keyword, page, size    |
-| POST        | /api/v1/boosters                    | Save a new booster                                          | boosterDto             |
-| POST        | /api/v1/boosters/{id}/personalize   | Personalize a booster                                       | id, giftee, gifter     |
-
-For more detailed information and sample responses, please refer to the [API Documentation](/api-docs) generated using Swagger.
-
 ## Acknowledgements
 
 - Thanks to [Open Food Bank API](https://www.openfoodbank.org) for providing the food bank data.
 - Special thanks to our contributors and community for their valuable feedback and support.
-
-Feel free to customize the content according to your app's specific details and include relevant information, such as installation instructions, dependencies, and additional features.
