@@ -18,7 +18,7 @@ This is a sophisticated Android app designed to facilitate food donation and foo
 
 ## Screenshots
 
-![Screenshot 1](/screenshots/screenshot1.png)
+<img width="506" alt="blog-post-3" src="https://github.com/jessicaju25/fooddonationapp/assets/116128813/4271dace-1b57-4bf4-afed-432b5d9bc737">
 
 ## Getting Started
 
