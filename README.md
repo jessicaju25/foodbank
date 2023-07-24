@@ -32,10 +32,6 @@ To run the app on your local machine, follow these steps:
 
 Contributions to the project are welcome. If you encounter any issues or have suggestions for improvements, please create a new issue or submit a pull request.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ## Acknowledgements
 
 - Thanks to [Open Food Bank API](https://www.openfoodbank.org) for providing the food bank data.
